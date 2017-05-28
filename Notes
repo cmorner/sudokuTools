@@ -1,0 +1,5 @@
+[ ] Kontrollera att sudokun uppfyller kraven av att vara korrekt
+[X] Hämta in sudoku plan från fil
+[x]loop för att mata in en ny spelplan
+- checka att inputten är korrekt lång
+- interaktiva inputfält i kommandotolken
