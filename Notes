@@ -1,4 +1,7 @@
-[ ] Kontrollera att sudokun uppfyller kraven av att vara korrekt
+[ ] Refactorera koden till flera olika filer
+[ ] utvärdera olika lösningsalgoritmer och se hur snabbt de olika lösningarna löser olika sudokus. ta tid och spara datan och visa den på en graf.
+[ ] Lägga till tester för att kolla att soduken checkaren hittar alla fel
+[X] Kontrollera att sudokun uppfyller kraven av att vara korrekt
 [X] Hämta in sudoku plan från fil
 [x]loop för att mata in en ny spelplan
 - checka att inputten är korrekt lång
